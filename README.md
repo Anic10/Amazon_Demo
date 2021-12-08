@@ -7,17 +7,17 @@
 1) In the language of your choice, use Selenium to load www.amazon.com. 
 
 2) Search for the product "iPhone X". Apply the following filters to the results:  
-2.1) Cell Phone Operating System: iOS
+  2.1) Cell Phone Operating System: iOS
 
 2.2) Price Sort: High to Low
 
 3) Display a list in your console of the search results. Each list item should contain the following:
 
-3.1) Product name
+  3.1) Product name
 
-3.2) Price
+  3.2) Price
 
-3.3) Link to the product details page
+  3.3) Link to the product details page
 
 4) Automate the above process with a BrowserStack remote driver.
 
